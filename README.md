@@ -1,5 +1,4 @@
-# Web Development Projects
-![web](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/assets/70385488/2f95b3c2-4cd6-4d0a-a8d1-30defd66681f)
+
 
 |  Project Name  |  Preview  |
 |:---------------|:---------:|
