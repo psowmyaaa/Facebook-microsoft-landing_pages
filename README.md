@@ -2,7 +2,7 @@
 
 |  Project Name  |  Preview  |
 |:---------------|:---------:|
-|  [Developer_Landing_Page](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/tree/main/Projects/Developer_Landing_Page)  |  [Click Here](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/blob/main/Projects/Developer_Landing_Page/README.md)  |
+|  [Developer_Landing_Page](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/blob/main/Projects/Developer_Landing_Page/images/developer.png)  |  [Click Here](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/blob/main/Projects/Developer_Landing_Page/images/developer.png)  |
 |  [Glassmorphic SignUp Page](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/tree/main/Projects/Glassmorphic_SignUp_Page)  |  [Click Here](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/blob/main/Projects/Glassmorphic_SignUp_Page/README.md)  |
 |  [Gym Webpage](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/tree/main/Projects/Gym_Webpage)  |  [Click Here](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/blob/main/Projects/Gym_Webpage/README.md)  |
 |  [Job Application](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/tree/main/Projects/Job_Application)  |  [Click Here](https://github.com/psowmyaaa/Facebook-microsoft-landing_pages/blob/main/Projects/Job_Application/README.md)  |
